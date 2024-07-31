@@ -1,0 +1,19 @@
+.details {
+    padding: 50px 20px;
+    background-color: #f1f1f1;
+    color: #4B0082; 
+  }
+  
+  .details h2, .details h3 {
+    color: #0000FF; 
+  }
+  
+  .details p, .details ul {
+    color: black;
+  }
+  
+  .details ul {
+    list-style-type:disc;
+    margin-left: 20px;
+  }
+  

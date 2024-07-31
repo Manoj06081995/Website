@@ -1,0 +1,20 @@
+.sessions {
+    padding: 50px 20px;
+    background-color: black;
+    color: white; 
+  }
+  
+  .sessions h2 {
+    color: blue; 
+  }
+  
+  .sessions h3 {
+    color: white;
+  }
+  
+  .sessions ul {
+    list-style-type: disc;
+    margin-right: 40px;
+    color: blueviolet;
+  }
+  
